@@ -10,4 +10,11 @@
 
 ### Figures elimination and points getting
 
-- Complete figures are formed from the shape of the corresponding pieces. Examples of complete figures are shown in figure 1.
+- Complete figures are formed from the shape of the corresponding pieces. Examples of complete figures are shown above:
+
+![Project](./assets/figOne.PNG)
+
+- On the other hand, complete figures can have a greater number of pieces, as long as the proportions for each figure are maintained. Several variations of the previous figures are presented below.
+
+
+
