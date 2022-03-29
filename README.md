@@ -36,5 +36,5 @@ This patters is used when there are enough X pieces to make a large X figure, bu
 This is used whnere there are enough+ pieces to make a large figure, but not an X figure. It has a particularity of possibly getting stuck, in a very specific niche case, which was considered unlikely enough to ignore. 
 First, there is an attempt to fill the O figures on the left corne. However, if there is an X there, the O will be places on one of the other 7 available locations, which will never complete a figure. From there on, it will check if the next position for an O piece is available. The block happens is 4 X pieces are placed, and then 10 consecutive 10 O pieces, without completing the X figure. 
 
-## Simple:
+#### Simple:
 In this patters, the figures made are always the smallest ones, with the exception of the - figure. Since there is no overlap between pieces and figures. It gives much fewer points that the alternatives. Since it will only happen when there are not enough pieces to make a larger figure, for a given set of pieces, if this pattern is chosen, it will be the optimal pattern.
