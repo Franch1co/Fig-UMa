@@ -16,5 +16,5 @@
 
 - On the other hand, complete figures can have a greater number of pieces, as long as the proportions for each figure are maintained. Several variations of the previous figures are presented below.
 
-![Project](./assets/figTwo.PNG)
+
 
