@@ -14,7 +14,12 @@
 
 ![Project](./assets/figOne.PNG)
 
-- On the other hand, complete figures can have a greater number of pieces, as long as the proportions for each figure are maintained. Several variations of the previous figures are presented below.
+- On the other hand, complete figures can have a greater number of pieces, as long as the proportions for each figure are maintained. Several variations of the previous figures are presented below:
 
+![Project](./assets/figTwo.PNG)
 
+- Figures that are completely filled in are eliminated. For each figure eliminated, points are obtained, which are added up throughout the game. The game ends when all the pieces have been placed, or when the board is full of pieces. The robot wins the game when it manages to place all the pieces and the final board is empty.
 
+- The final game score is obtained by adding the scores obtained during the game with the elimination of the pieces. For each complete figure with n pieces that is eliminated, 2n points are added to the score.
+
+### Heuristics used in the game
