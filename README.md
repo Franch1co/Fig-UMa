@@ -11,3 +11,4 @@
 ### Figures elimination and points getting
 
 - Complete figures are formed from the shape of the corresponding pieces. Examples of complete figures are shown in figure 1.
+
